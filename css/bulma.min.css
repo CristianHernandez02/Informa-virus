@@ -10650,8 +10650,8 @@ print {
 }
 
 .hero.is-white {
-    background-color: #fff;
-    color: #0a0a0a
+    background-color: #DC143C;
+    color: #DC143C
 }
 
 .hero.is-white a:not(.button):not(.dropdown-item):not(.tag):not(.pagination-link.is-current),
